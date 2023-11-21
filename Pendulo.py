@@ -11,7 +11,7 @@ import math
 # Código 1
 
 def pendulo(tf,tm):
-    g = 9.81
+    g = 1000000
     L = 10
     s1 = (g/L)**(1/2)
     s2 = (g/L)**(1/2)
