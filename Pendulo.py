@@ -5,14 +5,14 @@ Created on Mon Aug 14 19:40:13 2023
 @author: hp
 """
 
-import numpy as
+import numpy as np
 import matplotlib.pylab as plt
 import math
 # Código 1
 
 def pendulo(tf,tm):
-    g = 1000000
-    L = 10
+    g = 8
+    L = 5
     s1 = (g/L)**(1/2)
     s2 = (g/L)**(1/2)
     c1 = 1
