@@ -5,7 +5,7 @@ Created on Mon Aug 14 19:40:13 2023
 @author: hp
 """
 
-import numpy as np 
+import numpy as
 import matplotlib.pylab as plt
 import math
 # Código 1
