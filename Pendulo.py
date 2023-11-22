@@ -12,7 +12,7 @@ import math
 
 def pendulo(tf,tm):
     g = 9.81
-    L = 10
+    L = 1000
     s1 = (g/L)**(1/2)
     s2 = (g/L)**(1/2)
     c1 = 1
@@ -41,6 +41,7 @@ plt.plot(Tempo,Theta)
 plt.title("Solución del Péndulo con Numpy")
 plt.grid()
 plt.show()
+#Esto cambió
 
 
 
