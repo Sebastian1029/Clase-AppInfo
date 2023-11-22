@@ -1,2 +1,2 @@
 # Clase-AppInfo
-Esto es pa la clase
+Esto es pa la clase wuju
