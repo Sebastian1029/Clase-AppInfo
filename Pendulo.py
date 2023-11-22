@@ -29,8 +29,8 @@ def pendulo(tf,tm):
 
 Tiempo,Resultado = pendulo(15,0.1)
 
-g = 9.81
-L = 10
+g = 2.81
+L = 3
 s1 = (g/L)**(1/2)
 s2 = (g/L)**(1/2)
 c1 = 1
